@@ -8,18 +8,7 @@
 
 ## Instrucciones de uso
 - Descargar proyecto
-- Crear base de datos (web_service) e importar archivo ```web_service.sql```
+- Crear base de datos (cruddavid) e importar archivo ```bd.sql```
 - Cambiar los datos de acceso en ```conexión.php```
 
-## Autores ✒️
-- **Marko Robles** - *Desarrollo* - [mroblesdev](https://github.com/mroblesdev)
 
-## Licencia 📄
-
-Este proyecto está bajo la Licencia GNU General Public License v3.0 - mira el archivo [license](license) para más detalles.
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ [Da clic aquí](https://www.paypal.com/paypalme/markorobles?locale.x=es_XC.) 
-* Da las gracias públicamente 🤓.
