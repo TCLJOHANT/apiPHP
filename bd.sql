@@ -1,11 +1,6 @@
 CREATE DATABASE IF NOT EXISTS cruddavid;
 use cruddavid;
 
---establece configuraciones específicas para el modo de SQL, el autoincremento, la confirmación de transacciones y la zona horaria.
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-START TRANSACTION;
-SET time_zone = "+00:00";
-
 
 CREATE TABLE artista(
   id INT(11) PRIMARY KEY AUTO_INCREMENT,
